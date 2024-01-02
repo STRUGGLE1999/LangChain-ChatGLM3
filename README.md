@@ -27,10 +27,10 @@ LangChain是一个开源框架，允许从事人工智能的开发者将例如GP
 最终Gradio界面问答如图：
 
 ###### 直接生成文本：
-![image](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/60b11a4a-78bb-44ba-8ec7-817cfd3b5ba8)
+![直接生成_1](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/d1973f4f-7ec0-4433-b31c-3e00a436de27)
 
 ###### 流聊天方式生成文本
-![image](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/d261cc97-02c0-4dc7-a52f-378619f109e0)
+![流聊天方式_1](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/19bcedca-9fde-4b0b-9eb8-76a6110728ce)
 
 #### 4、将导入的文档向量化并存入数据库，以及基于词向量的相似文本检索
 [document_search.ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/document_search.ipynb)
