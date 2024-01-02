@@ -21,10 +21,13 @@ LangChain是一个开源框架，允许从事人工智能的开发者将例如GP
 文件位置：[chat.ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/chat.ipynb)
 #### 3、基于LangChain+ChatGLM3实现本地知识库问答，需要有Gradio界面。
 支持txt、md、pdf、jpg四种格式的本地文件。
-文件位置：[langchain_chatglm3 (最终版).ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/langchain_chatglm3%20(%E6%9C%80%E7%BB%88%E7%89%88).ipynb)
+文件位置：[langchain_chatglm3_V3.ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/langchain_chatglm3%20(%E6%9C%80%E7%BB%88%E7%89%88).ipynb)
 最终Gradio界面问答如图：
+###### 直接生成文本：
+![image](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/60b11a4a-78bb-44ba-8ec7-817cfd3b5ba8)
 
-![运行结果.png](https://cdn.nlark.com/yuque/0/2023/png/22838017/1704007618040-f84bb4fd-633b-4222-80a6-e847abb00a59.png#averageHue=%23f6f1d2&clientId=ub1e70783-a1a2-4&from=ui&id=udb4d1e2d&originHeight=998&originWidth=1636&originalType=binary&ratio=2&rotation=0&showTitle=false&size=119555&status=done&style=none&taskId=u4934400a-13c5-4bb2-975f-637df8026d3&title=)
+###### 流聊天方式生成文本
+![image](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/d261cc97-02c0-4dc7-a52f-378619f109e0)
 
 #### 4、将导入的文档向量化并存入数据库，以及基于词向量的相似文本检索
 [document_search.ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/document_search.ipynb)
