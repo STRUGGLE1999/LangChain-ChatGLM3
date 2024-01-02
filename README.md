@@ -22,9 +22,10 @@ LangChain是一个开源框架，允许从事人工智能的开发者将例如GP
 #### 3、基于LangChain+ChatGLM3实现本地知识库问答，需要有Gradio界面。
 支持txt、md、pdf、jpg四种格式的本地文件。
 
-
 文件位置：[langchain_chatglm3_V3.ipynb](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/blob/main/langchain_chatglm3_V3.ipynb)
+
 最终Gradio界面问答如图：
+
 ###### 直接生成文本：
 ![image](https://github.com/STRUGGLE1999/LangChain-ChatGLM3/assets/66925708/60b11a4a-78bb-44ba-8ec7-817cfd3b5ba8)
 
